@@ -5,7 +5,7 @@
                "Follow Individual Options",
                "Do Not Export"
           ],
-          "State": "Do Not Export"
+          "State": "Follow Individual Options"
      },
      ".gr2": {
           "Options": [
@@ -13,7 +13,7 @@
                ".obj",
                "Do Not Export"
           ],
-          "State": "As Is"
+          "State": ".obj"
      },
      ".black": {
           "Options": [
